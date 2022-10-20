@@ -12,3 +12,14 @@ Now the same extension could be used for Xorg but unfortunately there is a reall
 
 ## Install
 Just run `install.sh` from the terminal and follow the prompts.
+
+Read [Keeb Cmds.txt](https://github.com/BinaryGenius/Gnome-Brightness-Ctrl/blob/main/Keeb%20Cmds.txt) if you'd like some key bindings otherwise run these commands.
+
+Raise Brightness
+```
+/home/$USER/Projects/Gnome-Brightness-Ctrl/brightness.sh Up
+```
+Lower Brightness
+```
+/home/$USER/Projects/Gnome-Brightness-Ctrl/brightness.sh Down
+```
