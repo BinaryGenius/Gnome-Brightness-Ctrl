@@ -1,5 +1,3 @@
-# Brightness control for Gnome Desktop users that respects Night Light.
-
 ## Wayland
 There is an excellent extension called soft brightness you can download using Extension Manager.
 
