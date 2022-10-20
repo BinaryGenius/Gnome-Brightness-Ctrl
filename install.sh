@@ -11,11 +11,11 @@ echo
 	read -p "Type "wayland" or "xorg" to pick desired script: " cmd
 	case $cmd in
 		wayland)
-            mv soft-brightness/brightness.sh /home/$USER/Projects/Gnome-Brightness-Ctrl
+            mv soft-brightness/brightness.sh brightness-level.txt /home/$USER/Projects/Gnome-Brightness-Ctrl
             rm -rf soft-brightness
 			;;
 		xorg)
-            mv ggt-script/brightness.sh /home/$USER/Projects/Gnome-Brightness-Ctrl
+            mv ggt-script/brightness.sh brightness-level.txt /home/$USER/Projects/Gnome-Brightness-Ctrl
             rm -rf ggt-script
 			;;
   esac
