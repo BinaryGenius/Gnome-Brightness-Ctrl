@@ -1,0 +1,7 @@
+Keyboard commands for gnome shortcuts.
+
+Brightness up - Ctrl + F10
+/home/(User here)/Projects/Gnome-Brightness-Ctl/brightness.sh Up
+
+Brightness down - Ctrl + F9
+/home/(User here)/Projects/Gnome-Brightness-Ctl/brightness.sh Down
