@@ -16,7 +16,7 @@ echo
 			;;
 		xorg)
             mv ggt-script/brightness.sh /home/$USER/Projects/Gnome-Brightness-Ctrl
-            rm -rf gnome-gamma-tool
+            rm -rf ggt-script
 			;;
   esac
 
