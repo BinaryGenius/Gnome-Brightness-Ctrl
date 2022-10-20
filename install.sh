@@ -19,5 +19,3 @@ echo
             rm -rf ggt-script
 			;;
   esac
-
-
