@@ -1,6 +1,6 @@
 #!/bin/bash
 
-brightnesslevelpath=/home/$USER/Projects/Soft\ Brightness/brightness-level.txt
+brightnesslevelpath=/home/$USER/Projects/Gnome-Brightness-Ctrl/brightness-level.txt
 brightness=$(cat "${brightnesslevelpath}")
 
 case $1 in
